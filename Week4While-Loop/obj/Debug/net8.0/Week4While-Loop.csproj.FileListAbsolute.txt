@@ -1,0 +1,14 @@
+C:\Users\kaare\source\repos\Week4Loops\Week4While-Loop\bin\Debug\net8.0\Week4While-Loop.exe
+C:\Users\kaare\source\repos\Week4Loops\Week4While-Loop\bin\Debug\net8.0\Week4While-Loop.deps.json
+C:\Users\kaare\source\repos\Week4Loops\Week4While-Loop\bin\Debug\net8.0\Week4While-Loop.runtimeconfig.json
+C:\Users\kaare\source\repos\Week4Loops\Week4While-Loop\bin\Debug\net8.0\Week4While-Loop.dll
+C:\Users\kaare\source\repos\Week4Loops\Week4While-Loop\bin\Debug\net8.0\Week4While-Loop.pdb
+C:\Users\kaare\source\repos\Week4Loops\Week4While-Loop\obj\Debug\net8.0\Week4While-Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaare\source\repos\Week4Loops\Week4While-Loop\obj\Debug\net8.0\Week4While-Loop.AssemblyInfoInputs.cache
+C:\Users\kaare\source\repos\Week4Loops\Week4While-Loop\obj\Debug\net8.0\Week4While-Loop.AssemblyInfo.cs
+C:\Users\kaare\source\repos\Week4Loops\Week4While-Loop\obj\Debug\net8.0\Week4While-Loop.csproj.CoreCompileInputs.cache
+C:\Users\kaare\source\repos\Week4Loops\Week4While-Loop\obj\Debug\net8.0\Week4While-Loop.dll
+C:\Users\kaare\source\repos\Week4Loops\Week4While-Loop\obj\Debug\net8.0\refint\Week4While-Loop.dll
+C:\Users\kaare\source\repos\Week4Loops\Week4While-Loop\obj\Debug\net8.0\Week4While-Loop.pdb
+C:\Users\kaare\source\repos\Week4Loops\Week4While-Loop\obj\Debug\net8.0\Week4While-Loop.genruntimeconfig.cache
+C:\Users\kaare\source\repos\Week4Loops\Week4While-Loop\obj\Debug\net8.0\ref\Week4While-Loop.dll

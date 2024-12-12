@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaare\\source\\repos\\Week4Loops\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD4A520-D114-4FEC-998A-7D58A31CE318}|Week4While-Loop\\Week4While-Loop.csproj|c:\\users\\kaare\\source\\repos\\week4loops\\week4while-loop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD4A520-D114-4FEC-998A-7D58A31CE318}|Week4While-Loop\\Week4While-Loop.csproj|solutionrelative:week4while-loop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8D6A52A-1CDE-44F2-A41D-254016549177}|Week4Loops\\Week4Loops.csproj|c:\\users\\kaare\\source\\repos\\week4loops\\week4loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8D6A52A-1CDE-44F2-A41D-254016549177}|Week4Loops\\Week4Loops.csproj|solutionrelative:week4loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaare\\source\\repos\\Week4Loops\\Week4While-Loop\\Program.cs",
+              "RelativeDocumentMoniker": "Week4While-Loop\\Program.cs",
+              "ToolTip": "C:\\Users\\kaare\\source\\repos\\Week4Loops\\Week4While-Loop\\Program.cs",
+              "RelativeToolTip": "Week4While-Loop\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:51:30.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaare\\source\\repos\\Week4Loops\\Week4Loops\\Program.cs",
+              "RelativeDocumentMoniker": "Week4Loops\\Program.cs",
+              "ToolTip": "C:\\Users\\kaare\\source\\repos\\Week4Loops\\Week4Loops\\Program.cs",
+              "RelativeToolTip": "Week4Loops\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:31:43.607Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

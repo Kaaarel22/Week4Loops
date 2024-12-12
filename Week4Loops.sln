@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week4Loops", "Week4Loops\Week4Loops.csproj", "{D8D6A52A-1CDE-44F2-A41D-254016549177}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week4While-Loop", "Week4While-Loop\Week4While-Loop.csproj", "{4CD4A520-D114-4FEC-998A-7D58A31CE318}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8D6A52A-1CDE-44F2-A41D-254016549177}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8D6A52A-1CDE-44F2-A41D-254016549177}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8D6A52A-1CDE-44F2-A41D-254016549177}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8D6A52A-1CDE-44F2-A41D-254016549177}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CD4A520-D114-4FEC-998A-7D58A31CE318}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CD4A520-D114-4FEC-998A-7D58A31CE318}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CD4A520-D114-4FEC-998A-7D58A31CE318}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CD4A520-D114-4FEC-998A-7D58A31CE318}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7C20EF4-D872-4DA2-9442-BF3455DDBFF3}
+	EndGlobalSection
+EndGlobal
